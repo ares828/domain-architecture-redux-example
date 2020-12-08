@@ -1,0 +1,3 @@
+export default {
+    INITIALIZE_APPLICATION: '@@system/INITIALIZE_APPLICATION',
+};
